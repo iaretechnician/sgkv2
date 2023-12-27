@@ -8,8 +8,8 @@
 
 # We want everything in our project folder
 !/Content/SurvivalGameKitV2/
-# !/Content/_GIT/
-# !/Content/__*
+!/Content/_GIT/
+!/Content/__*
 !/Content/Splash/
 
 
