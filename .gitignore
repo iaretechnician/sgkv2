@@ -1,5 +1,18 @@
+# ---> UnrealEngine
 # Visual Studio 2015 user specific files
 .vs/
+# Ignore everything
+/Content/*
+# dont ignore this file
+!.gitignore
+
+# We want everything in our project folder
+!/Content/SurvivalGameKitV2/
+# !/Content/_GIT/
+# !/Content/__*
+!/Content/Splash/
+
+
 
 # Compiled Object files
 *.slo
@@ -40,6 +53,7 @@
 *.sdf
 *.VC.db
 *.VC.opendb
+*.bin
 
 # Precompiled Assets
 SourceArt/**/*.png
@@ -72,3 +86,4 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
