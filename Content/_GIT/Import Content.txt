@@ -51,7 +51,19 @@ Abandoned Training
 
 
 
-
+Boatyard Vol 1
+Military Supplies Vol.1-8
+Military Truck
+Military Trailer
+Military Training (shooting range underground)
+Modular Military Character (AI)
+Survival NPC (all)
+Military Drone
+Zombie (all as dead bodies)
+Shopping and Market VOL 1 - Gas Station
+Carrier CVN76 USS Ronald Reagan
+Realistic Starter VFX Pack
+Mosin Nagant
 
 
 Polar Sci-Fi Facility
@@ -65,4 +77,5 @@ Factory Environment Collection
 
 
 Someday Features
+Dynamic Ivy
 DLC In Blueprints V3
