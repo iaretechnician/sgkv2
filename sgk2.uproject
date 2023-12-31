@@ -51,6 +51,10 @@
 		{
 			"Name": "AndroidFileServer",
 			"Enabled": false
+		},
+		{
+			"Name": "Water",
+			"Enabled": true
 		}
 	]
 }

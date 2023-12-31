@@ -8,7 +8,7 @@ If scalability is set to LOW, the dynamic foliage grass is not shown at all
 
 
 Content to Import:
-Modern RPG (Main Project is already in GIT)
+Survival Game Kit V2 (Main Project is already in GIT)
 Brushify - 
 	Country roads
 	Cliffs
@@ -42,6 +42,12 @@ Electrical Substation
 UH60A Blackhawk
 FPS Weapon Pack Vol 2
 FPS Weapon Bundle
+Ultimate StampIT
+Explosions Niagara
+Background Buildings
+Parking Garage
+Suburbs
+Abandoned Training
 
 
 
