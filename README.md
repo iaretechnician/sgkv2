@@ -5,7 +5,11 @@ Importing Heightmaps, set Z to 50, Flip off, disable "Enable Edit Layers"
 
 World settings - Enable World Composition, enable Force no Precomputed Lighting so we have fully dynamic lights.  Click Build.
 
-Plugins - enable Geometry Script
+Plugins 
+	- Geometry Script
+	- Chaos Vehicle Plugin
+	- Bridge (quixel and metahumans)
+	
 
 If scalability is set to LOW, the dynamic foliage grass is not shown at all
 
