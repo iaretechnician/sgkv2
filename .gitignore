@@ -3,6 +3,8 @@
 .vs/
 # Ignore everything
 /Content/*
+*.uproject
+
 # dont ignore this file
 !.gitignore
 
