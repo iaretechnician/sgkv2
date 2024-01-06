@@ -47,8 +47,6 @@ Electrical Substation
 UH60A Blackhawk
 FPS Weapon Pack Vol 2
 FPS Weapon Bundle
-Ultimate StampIT
-Explosions Niagara
 Background Buildings
 Parking Garage
 Suburbs
@@ -60,6 +58,8 @@ Watch Towers Vol 1
 Abandoned Passenger Aircraft
 Prison
 Ballistics FX
+Twinmotion Boat Pack
+Boatyard Vol 1
 
 Unity Assets:
 RPG/FPS Game Assets
