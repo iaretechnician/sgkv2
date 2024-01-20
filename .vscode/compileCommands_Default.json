@@ -1,0 +1,42 @@
+[
+	{
+		"file": "D:\\Projects\\SGKv2\\Source\\sgk2\\EmptyClass.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Projects\\SGKv2\\.vscode\\compileCommands_Default\\sgk2.291.rsp"
+		],
+		"directory": "D:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Projects\\SGKv2\\Source\\sgk2\\EmptyClass.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Projects\\SGKv2\\.vscode\\compileCommands_Default\\sgk2.291.rsp"
+		],
+		"directory": "D:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Projects\\SGKv2\\Source\\sgk2\\sgk2.Build.cs",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Projects\\SGKv2\\.vscode\\compileCommands_Default\\sgk2.291.rsp"
+		],
+		"directory": "D:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Projects\\SGKv2\\Source\\sgk2\\sgk2.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Projects\\SGKv2\\.vscode\\compileCommands_Default\\sgk2.291.rsp"
+		],
+		"directory": "D:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Projects\\SGKv2\\Source\\sgk2\\sgk2.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Projects\\SGKv2\\.vscode\\compileCommands_Default\\sgk2.291.rsp"
+		],
+		"directory": "D:\\UE_5.2\\Engine\\Source"
+	}
+]
