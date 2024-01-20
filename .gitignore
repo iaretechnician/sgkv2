@@ -10,6 +10,8 @@
 
 # We want everything in our project folder
 !/Content/SurvivalGameKitV2/
+!/Content/BallisticsVFX/FXSpawnerBlueprints/
+!/Content/ProceduralRoadGenerator/Blueprints/
 !/Content/_GIT/
 !/Content/__*
 !/Content/Splash/
