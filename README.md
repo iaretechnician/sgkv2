@@ -74,6 +74,8 @@ Smart AI
 Old Factory
 Factory Environment Collection
 Industrial Sawmill
+Climb and Vault Component
+City Street Props
 
 
 
@@ -87,6 +89,8 @@ RPG/FPS Game Assets
 -----------------------------------------------------
 SOMEDAY ?
 -----------------------------------------------------
+Megascans - Post-Apocalyptic Street
+
 Polar Sci-Fi Facility
 QA Holding Cells
 Restaurant - American Restaurant
@@ -95,6 +99,7 @@ Shanty Town Slums
 Spaceship Interior Environment Set
 Stone Pine Forest
 Factory Environment Collection
+Megascans - Street Tiles
 
 
 Someday Features

@@ -2,20 +2,21 @@
 # Visual Studio 2015 user specific files
 .vs/
 # Ignore everything
-/Content/*
+Content/*
 *.uproject
 
 # dont ignore this file
 !.gitignore
 
-# We want everything in our project folder
-!/Content/SurvivalGameKitV2/
-!/Content/BallisticsVFX/FXSpawnerBlueprints/
-!/Content/ProceduralRoadGenerator/Blueprints/
-!/Content/_GIT/
+# We want everything below 
+!/Content/Source/*
+!/Content/SurvivalGameKitV2/*
+!ProceduralRoadGenerator/Blueprints
+!_GIT/
 !/Content/__*
 !/Content/Splash/
 !/Contant/Megascans/
+!Content/SmartAI
 # !/Content/MetaHumans/
 
 
