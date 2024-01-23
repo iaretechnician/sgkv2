@@ -82,6 +82,10 @@
 		{
 			"Name": "SteamworksComplete",
 			"Enabled": true
+		},
+		{
+			"Name": "HDRIBackdrop",
+			"Enabled": true
 		}
 	]
 }
